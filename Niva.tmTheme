@@ -11,9 +11,9 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>name</key>
-	<string>IntelliJ</string>
+	<string>Niva</string>
 	<key>semanticClass</key>
-	<string>theme.light.boxy_yesterday</string>
+	<string>theme.light.niva</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -26,7 +26,7 @@
 				<key>caret</key>
 				<string>#4d4d4c</string>
 				<key>foreground</key>
-				<string>#4d4d4c</string>
+				<string>#141414</string>
 				<key>guide</key>
 				<string>#00000025</string>
 				<key>gutter</key>
@@ -82,9 +82,9 @@ a {
 }
 </string>
 				<key>selection</key>
-				<string>#FFFF00</string>
+				<string>#FFFF0042</string>
 				<key>selectionBorder</key>
-				<string>#FFFF00</string>
+				<string>#FFFF0042</string>
 				<key>stackGuide</key>
 				<string>#00000040</string>
 			</dict>
@@ -1394,6 +1394,8 @@ a {
 			<dict>
 				<key>foreground</key>
 				<string>#4271AE</string>
+				<key>background</key>
+				<string>#00D2FC0F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1428,7 +1430,7 @@ a {
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FAF5AA45</string>
+				<string>#EDFCED8C</string>
 			</dict>
 		</dict>
 	</array>
